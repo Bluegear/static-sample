@@ -3,6 +3,11 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
+@font-face{
+    font-family: "MAX PINJOHN V2";
+    src: url('fonts/MAX PINJOHN V2.ttf');
+    /*url('Thonburi-Bold.eot'); /* IE */
+}
 
 body {
     overflow-x: hidden;
@@ -175,7 +180,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+    font-family: "MAX PINJOHN V2","Helvetica Neue",Helvetica,Arial,cursive;
     color: #fed136;
 }
 
